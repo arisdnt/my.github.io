@@ -12,8 +12,8 @@ copyright = "Copy, _right?_ :thinking_face:"
   links = [
 	{ tiktok = "https://www.tiktok.com/@my.parfumjkt" },
 	{ whatsapp = "https://wa.me/6285524422313" },
-	{ instagram = "https://instagram.com/myparfumjkt" },
-	{ email = "mailto:cvmyparfum@gmail.com" },
+	#{ instagram = "https://instagram.com/myparfumjkt" },
+	#{ email = "mailto:cvmyparfum@gmail.com" },
 	{ link = { href = "https://shopee.co.id/my.parfumjkt/", text = "Shoope" } },
 	{ link = { href = "https://shopee.co.id/1MIL-Parfum-Nonalkohol-yang-COOL-dengan-kesegaran-aroma-bergamot-Laki-laki-i.280422346.20871881599?sp_atk=c0c935fa-a95e-4e76-ae4e-f15be1fddf71&xptdk=c0c935fa-a95e-4e76-ae4e-f15be1fddf71", text = "1MIL" } },
 	{ link = { href = "https://shopee.co.id/1MIL-LUCKE-Parfum-Nonalkohol-Aroma-Spesial-Pria-i.280422346.23528969674?xptdk=8919735c-1389-451b-bff2-339eefc31594", text = "1MIL LUCKE" } },
