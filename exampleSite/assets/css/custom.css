@@ -7,3 +7,9 @@
     rgba(252, 176, 69, 1) 100%
   );
 }
+
+.text-lg {
+    text-align: justify;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
