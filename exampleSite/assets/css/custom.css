@@ -9,14 +9,12 @@
 }
 
 .text-lg {
-    text-wrap: nowrap;
     text-align: justify;
     font-size: 1.125rem;
     line-height: 1.75rem;
 }
 
 .icon svg {
-    visibility: hidden;
     height: 1em;
     width: 1em;
 }
